@@ -17,7 +17,7 @@ It is best when your own texture assets library is arranged in folders and categ
 You will also notice the texture map names are named according to conventional methods. I added to my code most of the conventional texture map names that are used in the 3D industry.<br>
 If some are missing or you have some that are named in a non common way, you can add them to the program code yourself.<br><br>
 
-<img src="./README_imgs/fig01.jpg" width="1475" height="350"><br><br><br>
+<img src="./README_imgs/fig01.jpg" width="1275" height="350"><br><br><br>
 
 Just to note; if everything compiles correctly you should see seven new files added to the main folder.<br>
 
